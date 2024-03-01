@@ -1,5 +1,7 @@
-# Git Gud: Open-source git-themed card game
-![Git Gud Logo](https://github.com/PeterAlfonsLoch/Git-Gud/blob/main/Git-Gud-Logo.png)
+# Git Gud: The Game
+<p align="center">
+  <img src="https://github.com/PeterAlfonsLoch/Git-Gud/blob/main/Git-Gud-Logo.png" width="50%" alt="Git Gud Logo">
+</p>
 
 ## Overview
 Git Gud is a strategic card game that simulates the ups and downs of software development and bug tracking. Players use action cards to manage bugs in their repository while affecting others', striving to maintain the lowest bug count. The game ends when a player reaches zero bugs or by mutual agreement when there are no cards left.
@@ -10,7 +12,8 @@ Git Gud is a strategic card game that simulates the ups and downs of software de
 - If a player reaches 0 bugs, the game immediately ends.
 
 ## Setup
-- Each player starts with 7 cards.
+- Each player starts with 7 cards and 12 bugs.
+- Players need a way to track their bugs. This can be done using paper and writing utensils, a note-taking app, or any other method of note-keeping.
 - Place the rest of the cards face down to form a draw pile.
 
 ## Gameplay
@@ -33,6 +36,7 @@ Git Gud is a strategic card game that simulates the ups and downs of software de
 ## Components
 - **Cards**: A total of 108 cards are needed to play the game. Print the card sheet 12 times to get the full deck.
 - **Dice**: A minimum of 2 six-sided dice (d6) are required for gameplay.
+- **Bug Tracking**: Players should have a method for tracking their bugs, such as pen and paper or a digital note-taking tool.
 
 ## Printing Instructions
 - Use a color printer to ensure the colors of the cards are vivid and clear.
