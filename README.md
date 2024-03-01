@@ -1,4 +1,5 @@
 # Git Gud: Open-source git-themed card game
+![Git Gud Logo](https://github.com/PeterAlfonsLoch/Git-Gud/blob/main/Git-Gud-Logo.png)
 
 ## Overview
 Git Gud is a strategic card game that simulates the ups and downs of software development and bug tracking. Players use action cards to manage bugs in their repository while affecting others', striving to maintain the lowest bug count. The game ends when a player reaches zero bugs or by mutual agreement when there are no cards left.
