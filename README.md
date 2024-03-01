@@ -19,8 +19,9 @@ Git Gud is a strategic card game that simulates the ups and downs of software de
 ## Gameplay
 1. On your turn, play an action card from your hand.
 2. Perform the action on the card.
-3. At the end of your turn, draw a card from the pile to have 7 cards in your hand again.
-4. If the draw pile runs out, reshuffle the discarded cards to create a new draw pile.
+3. If an action results in you losing a card, immediately draw a new card from the pile to maintain 7 cards in your hand.
+4. At the end of your turn, draw a card from the pile to ensure you have 7 cards in your hand, regardless of any cards lost during your turn.
+5. If the draw pile runs out, reshuffle the discarded cards to create a new draw pile.
 
 ## Cards
 - **Introduce bug**: Give another player a bug.
