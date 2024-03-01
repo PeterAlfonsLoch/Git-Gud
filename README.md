@@ -1,4 +1,4 @@
-# Git Gud: The Game
+# Git Gud: Open-source git-themed card game
 <p align="center">
   <img src="https://github.com/PeterAlfonsLoch/Git-Gud/blob/main/Git-Gud-Logo.png" width="50%" alt="Git Gud Logo">
 </p>
